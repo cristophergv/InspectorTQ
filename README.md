@@ -1,2 +1,0 @@
-# InspectorTQ
-Inspector TQ
